@@ -58,5 +58,8 @@ V.S.B College of Engineering & Technical Campus
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile
+- LinkedIn: www.linkedin.com/in/
+mahalakshmi-s-7aa78b36b
+Vanity URL name
+
 - Portfolio: Coming soon
