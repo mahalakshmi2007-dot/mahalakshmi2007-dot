@@ -2,42 +2,50 @@
 
 🎓 B.Tech Artificial Intelligence & Data Science Student  
 📊 Aspiring Data Analyst  
+💻 Web Development Enthusiast  
 📍 Coimbatore, Tamil Nadu, India
 
-## About Me
+## 👩‍💻 About Me
 
-I am a B.Tech Artificial Intelligence & Data Science student
-interested in Data Analytics and Business Intelligence.
+I am a B.Tech Artificial Intelligence & Data Science student interested in Data Analytics and Web Development.
 
-I am currently building practical skills in Excel, SQL, Power BI,
-Python and data visualization.
+I am building practical skills in Excel, SQL, Power BI, Python, HTML and CSS.
 
-My goal is to use data to discover meaningful insights and support
-better business decisions.
+I enjoy working on practical projects and learning how data and technology can solve real-world problems.
 
 ## 🛠️ Skills
 
+### 📊 Data Analytics
 - Excel
 - SQL
 - Power BI
-- Python
-- Pandas
-- NumPy
 - Data Analysis
 - Data Visualization
-- Statistics
 
-## 📚 Currently Learning
+### 💻 Programming
+- Python
+- Java
 
-- Advanced SQL
-- Power BI & DAX
-- Python for Data Analysis
-- Statistics for Data Analytics
+### 🌐 Web Development
+- HTML
+- CSS
+- Full Stack Development
+
+### 🧰 Tools
+- Git
+- GitHub
+- VS Code
 
 ## 🚀 Projects
 
-Projects are currently being developed as part of my
-Data Analytics learning journey.
+### 📊 Customer Sales Analysis
+SQL-based data analysis project focused on customer and sales data.
+
+### 📈 Sales Analytics Dashboard
+Excel-based dashboard for analyzing sales performance and business insights.
+
+### 💻 AI & Innovation Fest
+Web development project built using HTML and CSS.
 
 ## 💼 Experience
 
@@ -46,8 +54,9 @@ Data Analytics learning journey.
 
 ## 🎓 Education
 
-B.Tech Artificial Intelligence & Data Science  
-V.S.B College of Engineering & Technical Campus
+**B.Tech Artificial Intelligence & Data Science**  
+V.S.B College of Engineering & Technical Campus  
+CGPA: 8.8
 
 ## 📜 Certifications
 
@@ -56,10 +65,21 @@ V.S.B College of Engineering & Technical Campus
 - Python — Infosys
 - Data Analytics — GUVI
 
+## 📚 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Python for Data Analysis
+- Data Visualization
+
+## 🌐 Portfolio
+
+[View My Portfolio](https://mahalakshmi-portfolio-9p4m.vercel.app/)
+
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/
-mahalakshmi-s-7aa78b36b
-Vanity URL name
+📧 Email: mahalakshmi70867@gmail.com
 
-- Portfolio: Coming soon
+💼 LinkedIn: [Mahalakshmi S](https://www.linkedin.com/in/mahalakshmi-s-7aa78b36b/)
+
+🌐 Portfolio: [mahalakshmi-portfolio-9p4m.vercel.app](https://mahalakshmi-portfolio-9p4m.vercel.app/)
