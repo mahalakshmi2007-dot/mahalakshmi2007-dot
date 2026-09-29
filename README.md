@@ -181,18 +181,6 @@ Modern Web Development
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahalakshmi2007-dot&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmi2007-dot&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
