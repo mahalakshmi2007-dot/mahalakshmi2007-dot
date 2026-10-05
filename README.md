@@ -1,64 +1,69 @@
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=MAHALAKSHMI%20S&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=twinkling"/>
-</a>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;AI%2FML+%7C+FastAPI+%7C+React;Building+Practical+AI-Powered+Products;Turning+Ideas+into+Production-Ready+Software" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=180&section=header&text=MAHALAKSHMI%20S&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;AI%2FML+%7C+FastAPI+%7C+React;Building+Practical+AI-Powered+Products;Learning+%7C+Building+%7C+Shipping" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-8.6%2F10-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-8.6%2F10-4C1D95?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Coimbatore-Tamil%20Nadu-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://mahalakshmi-portfolio-9p4m.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/mahalakshmi-s-7aa78b36b/">
-<img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:mahalakshmi70867@gmail.com">
-<img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/mahalakshmi2007-dot">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=mahalakshmi2007-dot&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
+
 <img src="https://img.shields.io/github/followers/mahalakshmi2007-dot?style=for-the-badge&color=4C1D95&label=FOLLOWERS"/>
+
 <img src="https://img.shields.io/github/stars/mahalakshmi2007-dot?style=for-the-badge&color=312E81&label=STARS"/>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I am an **AI & Data Science student and Full-Stack Developer** focused on building practical, scalable, and intelligent software products.
+I am an **AI & Data Science student and Full-Stack Developer** focused on building practical, intelligent and user-oriented software products.
 
-My engineering interests sit at the intersection of **software engineering, artificial intelligence, machine learning, data analytics, and product development**. I enjoy transforming ideas into usable applications by combining modern frontend technologies with Python-based backend systems and AI capabilities.
+My interests lie at the intersection of **software engineering, artificial intelligence, machine learning, data analytics and product engineering**.
 
-I work across the complete development lifecycle — from **problem understanding and data processing to API development, frontend engineering, database integration, deployment, and product refinement**.
+I enjoy taking an idea from problem definition to a working application — designing the frontend, developing backend APIs, integrating databases, applying machine learning and deploying the final product.
 
-My current technical direction is centered around:
+### Engineering Interests
 
-- **Software Engineering** — building clean, maintainable and scalable applications
-- **AI / ML** — developing intelligent prediction, classification and automation systems
-- **Full-Stack Development** — React + TypeScript + FastAPI + SQL
-- **Data Engineering & Analytics** — Python, Pandas, SQL and analytical workflows
-- **Product Engineering** — converting real-world problems into useful software
-- **AI Applications** — integrating ML models and intelligent features into production-ready systems
+- **Software Engineering** — clean, maintainable and scalable applications
+- **AI / Machine Learning** — predictive models, classification and intelligent automation
+- **Full-Stack Development** — React, TypeScript, FastAPI and SQL
+- **Data Analytics** — Python, Pandas, SQL and statistical analysis
+- **AI Application Development** — integrating ML models into real applications
+- **Product Engineering** — solving practical problems through software
 
 ### Open To
 
-`Full-Stack Developer Internships` · `AI/ML Internships` · `Software Engineering Opportunities` · `Open Source` · `Collaborative Projects`
+`Full-Stack Developer Internships` · `AI/ML Internships` · `Software Engineering Opportunities` · `Open Source` · `AI Product Development`
 
 ---
 
@@ -68,7 +73,7 @@ My current technical direction is centered around:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark"/>
 
 </div>
 
@@ -88,7 +93,7 @@ My current technical direction is centered around:
 
 </div>
 
-### Cloud, DevOps & Tooling
+### Cloud, DevOps & Tools
 
 <div align="center">
 
@@ -104,12 +109,12 @@ My current technical direction is centered around:
 |---|---|---|
 | Machine Learning | Intermediate | Classification, regression, anomaly detection and model evaluation |
 | Natural Language Processing | Intermediate | Text preprocessing, TF-IDF and text classification |
-| Data Analytics | Intermediate | Data cleaning, exploratory analysis, statistics and visualization |
+| Data Analytics | Intermediate | Data cleaning, exploratory analysis and visualization |
 | Predictive Analytics | Intermediate | Regression-based forecasting and analytical modeling |
 | AI Applications | Intermediate | Integrating ML models into full-stack applications |
-| Python Data Stack | Intermediate | Pandas, NumPy and analytical workflows |
+| Python Data Stack | Intermediate | Pandas, NumPy and data-processing workflows |
 | ML APIs | Intermediate | Serving ML models through FastAPI REST APIs |
-| AI Product Engineering | Developing | Building practical AI-powered products from concept to deployment |
+| AI Engineering | Developing | Building practical AI-powered software products |
 
 ---
 
@@ -118,89 +123,99 @@ My current technical direction is centered around:
 <details>
 <summary><strong>SpendWise AI — Intelligent Expense Analysis Platform</strong></summary>
 
-### SpendWise AI
+<br/>
 
-An AI-powered personal finance application designed to automate expense categorization, spending analysis, forecasting and anomaly detection.
+**SpendWise AI** is a full-stack AI-powered expense management application that combines machine learning with personal finance tracking.
+
+### Project Overview
+
+The application automatically analyzes expenses, predicts categories, forecasts spending and detects unusual transactions.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | React, TypeScript, FastAPI, Python, SQLite, Scikit-learn |
+| **Stack** | Python · FastAPI · React · TypeScript · SQLite · Scikit-learn |
 | **Scale** | Full-stack AI application |
-| **Performance** | ML classification, forecasting and anomaly detection |
-| **Security** | REST API architecture with structured backend validation |
-| **Impact** | Automates financial categorization and provides predictive spending insights |
-| **Repository** | [GitHub](https://github.com/mahalakshmi2007-dot) |
+| **ML** | Classification · Forecasting · Anomaly Detection |
+| **Architecture** | React frontend + FastAPI backend + SQLite |
+| **Impact** | Automates expense analysis and provides predictive financial insights |
+| **Repository** | [SpendWise AI](https://github.com/mahalakshmi2007-dot) |
 
-### Engineering Scope
+### Engineering Work
 
-- Built a full-stack expense management workflow.
-- Implemented ML-powered expense category prediction.
-- Used **TF-IDF + Logistic Regression** for text classification.
+- Developed a complete full-stack expense workflow.
+- Implemented **TF-IDF + Logistic Regression** for expense classification.
 - Implemented **Linear Regression** for spending forecasting.
 - Implemented **Isolation Forest** for anomaly detection.
 - Developed REST APIs using FastAPI.
 - Integrated React frontend with Python backend.
-- Used SQLite for application data persistence.
-- Deployed the application using modern cloud platforms.
+- Used SQLite for persistent application data.
+- Deployed frontend and backend using cloud platforms.
 
-**Core Skills:** `Python` `FastAPI` `React` `TypeScript` `SQL` `Machine Learning` `NLP`
-
-</details>
-
-<details>
-<summary><strong>MoveMate — AI-Ready Relocation Intelligence Platform</strong></summary>
-
-### MoveMate
-
-A full-stack platform designed to help students and professionals evaluate cities based on affordability and relocation-related factors before moving for study or work.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React, TypeScript, FastAPI, Python, SQLAlchemy, SQLite |
-| **Scale** | Full-stack relocation intelligence platform |
-| **Performance** | Structured API architecture with database-backed city information |
-| **Security** | Backend validation and REST API architecture |
-| **Impact** | Helps users make more informed relocation and affordability decisions |
-| **Repository** | [GitHub](https://github.com/mahalakshmi2007-dot/movemate) |
-
-### Engineering Scope
-
-- Designed a modular frontend and backend architecture.
-- Developed REST APIs using FastAPI.
-- Implemented SQLAlchemy-based database integration.
-- Built city data management and API endpoints.
-- Structured the application for future recommendation and intelligence features.
-- Prepared the project for cloud deployment.
-- Designed the platform around a real-world student and professional relocation problem.
-
-**Core Skills:** `React` `TypeScript` `FastAPI` `Python` `SQLAlchemy` `SQLite` `REST APIs`
+**Skills:** `Python` `FastAPI` `React` `TypeScript` `SQLite` `Machine Learning` `NLP`
 
 </details>
 
+<br/>
+
 <details>
-<summary><strong>APART — AI / Data Science Project</strong></summary>
+<summary><strong>MoveMate — Relocation Intelligence Platform</strong></summary>
 
-### APART
+<br/>
 
-An academic and engineering project focused on applying data-driven and intelligent computing concepts to a practical problem domain.
+**MoveMate** is a full-stack platform designed to help students and professionals evaluate cities based on affordability and relocation-related information.
+
+### Project Overview
+
+The platform provides structured city information and creates a foundation for intelligent relocation recommendations.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | Python, Data Science, Machine Learning |
+| **Stack** | Python · FastAPI · React · TypeScript · SQLAlchemy · SQLite |
+| **Scale** | Full-stack relocation platform |
+| **Architecture** | React frontend + FastAPI backend + SQL database |
+| **Backend** | REST API + SQLAlchemy |
+| **Impact** | Helps users make informed relocation decisions |
+| **Repository** | [MoveMate](https://github.com/mahalakshmi2007-dot/movemate) |
+
+### Engineering Work
+
+- Designed frontend and backend architecture.
+- Built REST APIs using FastAPI.
+- Integrated SQLAlchemy for database operations.
+- Implemented city data management.
+- Created structured API endpoints.
+- Prepared the application for cloud deployment.
+- Designed the system for future recommendation features.
+
+**Skills:** `Python` `FastAPI` `React` `TypeScript` `SQLAlchemy` `SQLite` `REST APIs`
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>APART — AI & Data Science Project</strong></summary>
+
+<br/>
+
+**APART** is an academic AI / Data Science project demonstrating practical application of data-driven computing concepts.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python · Data Science · Machine Learning |
 | **Scale** | Academic AI / Data Science project |
-| **Performance** | Data-driven analytical workflow |
-| **Security** | Structured application design |
-| **Impact** | Demonstrates practical application of AI and data science concepts |
-| **Repository** | [GitHub](https://github.com/madhumitha-sunil/APART) |
+| **Focus** | Data-driven problem solving |
+| **Impact** | Demonstrates practical AI and Data Science implementation |
+| **Repository** | [APART](https://github.com/madhumitha-sunil/APART) |
 
-### Engineering Scope
+### Engineering Work
 
 - Applied AI and data science concepts to a practical problem.
-- Worked with data-driven processing and analytical workflows.
-- Focused on developing a solution rather than a basic CRUD implementation.
-- Demonstrates practical academic exposure to AI/ML engineering.
+- Worked with data-driven processing.
+- Applied analytical and machine learning concepts.
+- Focused on practical implementation rather than a basic CRUD workflow.
 
-**Core Skills:** `Python` `Machine Learning` `Data Science` `AI`
+**Skills:** `Python` `Machine Learning` `Data Science` `AI`
 
 </details>
 
@@ -208,24 +223,23 @@ An academic and engineering project focused on applying data-driven and intellig
 
 ## Experience
 
-### AI & Data Science Engineering — Academic & Project Experience
+### AI & Data Science Student / Developer
 
-**AI & Data Science Student / Developer**  
-`Academic Projects · Independent Development`
+**Academic & Independent Engineering Experience**
 
-Focused on building practical software systems while developing stronger foundations in AI, machine learning, data analytics and full-stack engineering.
+Focused on developing practical applications while strengthening foundations in software engineering, artificial intelligence, machine learning and data analytics.
 
-#### Scope of Work
+### Scope
 
-- Develop full-stack applications using modern web technologies.
-- Build Python-based backend services with FastAPI.
+- Build full-stack applications using modern web technologies.
+- Develop Python backend services with FastAPI.
 - Design and consume REST APIs.
 - Integrate machine learning models into applications.
-- Work with SQL databases and structured data.
-- Develop analytical workflows using Python.
+- Work with SQL databases.
+- Build analytical workflows using Python.
 - Deploy applications using cloud platforms.
-- Maintain GitHub repositories with structured documentation.
-- Continuously improve engineering, debugging and deployment skills.
+- Maintain GitHub repositories and technical documentation.
+- Continuously improve development and deployment skills.
 
 **Skills:** `Python` `FastAPI` `React` `TypeScript` `SQL` `Machine Learning` `Git` `GitHub`
 
@@ -237,11 +251,11 @@ Focused on building practical software systems while developing stronger foundat
 
 | Recognition | Details |
 |---|---|
-| **AI & Data Science Academic Performance** | Maintained strong academic performance with an 8.6/10 CGPA |
-| **Full-Stack Development** | Built and deployed practical full-stack applications |
-| **AI Application Development** | Integrated machine learning workflows into real-world applications |
-| **Project Engineering** | Developed multiple portfolio-focused engineering projects |
-| **Continuous Learning** | Actively expanding skills across AI, ML, data analytics and software engineering |
+| **Academic Performance** | Maintained an 8.6/10 CGPA in AI & Data Science |
+| **Full-Stack Development** | Built practical full-stack applications |
+| **AI Application Development** | Integrated machine learning workflows into software applications |
+| **Project Engineering** | Developed multiple portfolio-focused projects |
+| **Continuous Learning** | Expanding skills across AI, ML, Data Analytics and Software Engineering |
 
 </div>
 
@@ -249,21 +263,21 @@ Focused on building practical software systems while developing stronger foundat
 
 ## Certifications
 
-### AWS
+> Certification badges are intentionally limited to certifications that are actually completed and verified.
 
-<img src="https://img.shields.io/badge/AWS-Certification%20Track-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+### Certification Roadmap
 
-### Oracle
+<div align="center">
 
-<img src="https://img.shields.io/badge/Oracle-Certification%20Track-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-AI%20%26%20Cloud%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-### NPTEL
+<img src="https://img.shields.io/badge/Oracle-Technology%20Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NPTEL-Certification%20Track-4C1D95?style=for-the-badge&logo=nptel&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Online%20Learning-6D28D9?style=for-the-badge"/>
 
-### Cisco
+<img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Technology-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Cisco-Certification%20Track-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</div>
 
 ---
 
@@ -280,7 +294,7 @@ Focused on building practical software systems while developing stronger foundat
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-0B0F14?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
+<img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
 </a>
 
 <a href="https://www.codechef.com/">
@@ -295,7 +309,7 @@ Focused on building practical software systems while developing stronger foundat
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahalakshmi2007-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahalakshmi2007-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmi2007-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
@@ -325,7 +339,7 @@ Focused on building practical software systems while developing stronger foundat
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahalakshmi2007-dot&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahalakshmi2007-dot&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -335,7 +349,21 @@ Focused on building practical software systems while developing stronger foundat
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mahalakshmi2007-dot/mahalakshmi2007-dot/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mahalakshmi2007-dot/mahalakshmi2007-dot/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mahalakshmi2007-dot/mahalakshmi2007-dot/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/mahalakshmi2007-dot/mahalakshmi2007-dot/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
 
 </div>
 
@@ -351,24 +379,24 @@ Learning:
   - RAG Systems
   - LLM Applications
   - AI Agents
+  - MCP
   - Data Analytics
-  - Full-Stack Development
 
 Building:
   - AI-powered applications
-  - Production-ready FastAPI services
+  - FastAPI backend services
   - React + TypeScript applications
+  - ML-integrated software
   - Data-driven products
-  - ML-integrated software systems
 
 Exploring:
   - Generative AI
   - Retrieval-Augmented Generation
   - Agentic AI
-  - MCP
+  - Model Context Protocol
   - LLM Engineering
-  - Cloud Deployment
   - ML Engineering
+  - Cloud Deployment
 
 Open To:
   - Full-Stack Developer Internships
