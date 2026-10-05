@@ -4,13 +4,13 @@
 
 ### 🎓 B.Tech Artificial Intelligence & Data Science Student
 
-**Data Analytics • AI/ML • Web Development**
+**AI/ML • Data Analytics • Full-Stack Development**
 
 <p>
   <a href="https://www.linkedin.com/in/mahalakshmi-s-7aa78b36b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://mahalakshmi-portfolio-9p4m.vercel.app/">
+  <a href="https://mahalakshmi-ivory.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -21,14 +21,16 @@
 
 ## 👩‍💻 About Me
 
-I'm **Mahalakshmi**, a B.Tech Artificial Intelligence & Data Science student interested in **Data Analytics, Artificial Intelligence, and Web Development**.
+I'm **Mahalakshmi**, a B.Tech Artificial Intelligence & Data Science student interested in **Artificial Intelligence, Machine Learning, Data Analytics, and Full-Stack Development**.
 
-I enjoy building practical projects that combine data, machine learning, and modern web technologies to solve real-world problems.
+I enjoy building practical applications that combine machine learning, data, and modern web technologies to solve real-world problems.
 
 * 🎓 B.Tech Artificial Intelligence & Data Science
 * 📊 Interested in Data Analytics & Data Visualization
-* 🤖 Exploring Machine Learning and AI applications
-* 🌐 Interested in Modern Web Development
+* 🤖 Exploring Machine Learning & AI applications
+* 🌐 Building modern full-stack web applications
+* 🐍 Working with Python and FastAPI
+* ⚛️ Building frontend applications with React & TypeScript
 * 🛠️ Learning through hands-on projects
 * 🌱 Continuously improving my technical skills
 
@@ -52,7 +54,9 @@ I enjoy building practical projects that combine data, machine learning, and mod
 <p>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TF--IDF-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Logistic%20Regression-6B7280?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linear%20Regression-6B7280?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Isolation%20Forest-6B7280?style=for-the-badge"/>
 </p>
 
 ### 🌐 Web Development
@@ -70,16 +74,19 @@ I enjoy building practical projects that combine data, machine learning, and mod
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Deployment
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
 ---
@@ -90,7 +97,7 @@ I enjoy building practical projects that combine data, machine learning, and mod
 
 An AI-powered personal expense management and analytics application that helps users track expenses, monitor budgets, analyze spending patterns, and generate machine learning insights.
 
-**Tech:** React • FastAPI • Python • SQLite • Scikit-learn
+**Tech:** React • FastAPI • Python • SQLite • Scikit-learn • Pandas
 
 **Key Features:**
 
@@ -109,40 +116,44 @@ An AI-powered personal expense management and analytics application that helps u
 
 🔗 **Live Demo:** https://spendwise-ai-lake.vercel.app/
 
----
-
-### 📊 Customer Sales SQL Analysis
-
-A SQL-based data analysis project focused on analyzing customer and sales data to identify patterns and generate useful business insights.
-
-**Tech:** SQL
-
-**Analysis Includes:**
-
-* Customer analysis
-* Sales performance analysis
-* Product analysis
-* Revenue-related insights
-* Data filtering and aggregation
-
-🔗 **GitHub:** https://github.com/mahalakshmi2007-dot/customer-sales-sql-analysis
+🔗 **Backend API:** https://spendwise-ai-daj4.onrender.com/
 
 ---
 
 ### 🚚 MoveMate
 
-A web application designed to help students and working professionals analyze the affordability of relocating to a new city.
+A full-stack relocation affordability and decision platform designed to help students and working professionals evaluate the financial feasibility of moving to a new city.
 
-**Tech:** React • TypeScript • Vite • Tailwind CSS • FastAPI
+**Tech:** React • TypeScript • Tailwind CSS • FastAPI • Python
 
-**Focus:**
+**Key Features:**
 
 * Relocation affordability analysis
-* Cost-of-living comparison
-* Moving-related financial planning
-* Interactive user interface
+* City and cost-of-living information
+* Financial planning support
+* Responsive user interface
+* FastAPI backend APIs
 
-**Status:** 🚧 In Development
+🔗 **GitHub:** https://github.com/mahalakshmi2007-dot/movemate
+
+---
+
+### 📊 Customer Sales SQL Analysis
+
+A SQL-based data analysis project focused on analyzing customer, product, and sales data to generate useful business insights.
+
+**Tech:** SQL • Data Analysis
+
+**Analysis Includes:**
+
+* Customer analysis
+* Product analysis
+* Sales performance analysis
+* Revenue-related insights
+* Filtering and aggregation
+* Analytical SQL queries
+
+🔗 **GitHub:** https://github.com/mahalakshmi2007-dot/customer-sales-sql-analysis
 
 ---
 
@@ -150,9 +161,23 @@ A web application designed to help students and working professionals analyze th
 
 ### B.Tech Artificial Intelligence & Data Science
 
-**V.S.B College of Engineering & Technical Campus**
+**V.S.B College of Engineering & Technical Campus, Coimbatore**
 
-**CGPA: 8.8 / 10**
+**CGPA: 8.6 / 10**
+
+---
+
+## 💼 Internship Experience
+
+### Python Developer Intern — Alfido Tech
+
+* Gained practical experience in Python development and programming workflows.
+* Worked on Python-based coding and problem-solving tasks.
+
+### Full-Stack Developer Intern — CodeTech
+
+* Gained practical exposure to frontend and backend web development.
+* Worked with web application development workflows and full-stack concepts.
 
 ---
 
@@ -168,15 +193,16 @@ A web application designed to help students and working professionals analyze th
 ## 🌱 Currently Learning
 
 ```text
-SQL
 Python for Data Analysis
 Pandas & NumPy
-Power BI
+SQL
 Data Visualization
 Statistics
 Machine Learning
 FastAPI
-Modern Web Development
+React & TypeScript
+Full-Stack Development
+AI Application Development
 ```
 
 ---
@@ -203,8 +229,12 @@ Modern Web Development
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://mahalakshmi-portfolio-9p4m.vercel.app/">
+<a href="https://mahalakshmi-ivory.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mahalakshmi2007-dot">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
